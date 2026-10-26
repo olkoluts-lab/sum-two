@@ -5,5 +5,6 @@ int main() {
     std::cout << "Введіть два числа: ";
     std::cin >> a >> b;
     std::cout << "Сума = " << a + b << std::endl;
+    std::cout << "Різниця = " << a - b << std::endl;
     return 0;
 }
